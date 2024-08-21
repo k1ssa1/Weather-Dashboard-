@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.52.0",
-    "vue": "^3.4.37"
+    "vue": "^3.4.37",
+    "vuetify": "^3.7.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.2",
